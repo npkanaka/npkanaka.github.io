@@ -20,27 +20,31 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
+**November 2023**| Long-answer question generation model for contextually accurate questions from academic text.
 
+**October 2023**| Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models.
 
-**May 2023**: Started Research Internship with the Analytics Center of Excellence at Wexner Medical Center.
+**June 2023**| ⭐ GRA at [NOWLAB](https://nowlab.cse.ohio-state.edu/).
 
-**May 2023**: Investigating GPU Offloading in NVIDIA Rapids | [report](_portfolio/6422.pdf) 
+**May 2023**| Talk and presentation on LLMs and domain-specific fine-tuning, concluding a summer research internship with the Analytics Center of Excellence at Wexner Medical Center.
 
-**April 2023**: Performance Benchmarking of File Systems for handling massive data workloads | [report](_portfolio/6431.pdf)
+**May 2023**| Investigating GPU Offloading in NVIDIA Rapids _ [report](_portfolio/6422.pdf) 
 
-**January 2023**: Started my MS by thesis at Ohio State Univeristy
+**April 2023**| _Presented_ Performance Benchmarking of File Systems for handling massive data workloads _ [report](_portfolio/6431.pdf)
 
-**June 2022**: Thesis program in Computer Science at IIITH
+**January 2023**| Started my MS by thesis at Ohio State Univeristy
 
-**October 2020**: Joined [hdworks](https://hdworks.in/)([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
+**June 2022**| Thesis program in Computer Science at IIITH
 
-**September 2020**: 🎓 Graduated with Bachelor's in Computer Science
+**October 2020**| Joined [hdworks](https://hdworks.in/)([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
 
-**September 2020**: Completed my bachelor's thesis with Amazon Research on an NLP project focused on customer feedback
+**September 2020**| 🎓 Graduated with Bachelor's in Computer Science
 
-**August 2020**: 🎤 Talk on _"Quantum Computing and the Future of NLP"_
+**September 2020**| Completed my bachelor's thesis with Amazon Research on an NLP project focused on customer feedback
 
-**January 2017**: Fouding member of [Advanced Academic Center](https://www.aacgriet.com/)
+**August 2020**| 🎤 Talk on _"Quantum Computing and the Future of NLP"_ at GRIET
+
+**January 2017**| Fouding member of [Advanced Academic Center](https://www.aacgriet.com/)
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
