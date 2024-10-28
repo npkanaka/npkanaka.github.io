@@ -1,0 +1,33 @@
+---
+title: "Grokked Transformers Are Implicit Reasoners - Key Findings"
+excerpt: "Exploring the grokking phenomenon in transformers, factors that influence it, and implications for implicit reasoning capabilities in AI.<br/><img src='/images/grokking_transformers.png'>"
+collection: portfolio
+---
+
+### Grokking in Transformers
+Grokking is the phenomenon where transformers undergo a delayed yet sudden improvement in accuracy and generalization after extensive training.
+
+Detailing the factors influencing it, elements that do not affect it, and how it contributes to implicit reasoning.
+
+### Factors Influencing Grokking
+1. **Model Architecture and Complexity**: Complex transformer architectures with more layers and advanced attention mechanisms enhance grokking, suggesting architecture impacts implicit reasoning.
+2. **Data Sparsity and Distribution**: Sparse data and balanced distribution challenge the model, often leading to grokking in later training stages as the model identifies complex patterns.
+3. **Regularization Techniques**: Regularization, like weight decay and dropout, aids generalization but may delay grokking by balancing across patterns instead of prioritizing immediate mastery.
+4. **Learning Rate Scheduling**: Lowering the learning rate at critical stages gives models more time to learn complex patterns, which supports grokking.
+5. **Batch Size and Gradient Accumulation**: Smaller batch sizes promote grokking due to more gradual updates that help the model capture subtle patterns over time.
+6. **Optimization Techniques**: Optimizers like AdamW assist grokking by offering fine parameter control, facilitating incremental learning.
+
+### Factors Not Influencing Grokking
+1. **Dataset Size Alone**: Simply increasing data volume does not ensure grokking; it’s the structure and distribution of the data that matters.
+2. **Over-parameterization**: While model capacity affects grokking, merely adding parameters does not guarantee better grokking outcomes.
+3. **Training Time Without Structured Learning**: Extended training alone does not lead to grokking unless paired with structured learning strategies like regularization and optimizers.
+
+### Implicit Reasoning Capabilities
+After grokking, models display latent pattern recognition, with attention mechanisms aligning more meaningfully within data, showcasing an implicit reasoning ability. Grokked transformers exhibit characteristics of self-supervised learning, developing internal representations that enhance reasoning without explicit labeling.
+
+### Evaluation of Grokking
+- **Loss Curves and Accuracy Trends**: Grokking is observed through sudden improvements in loss and accuracy trends after a stagnant phase.
+- **Explainability Techniques**: Attention visualization and layer activation analysis reveal that grokked models prioritize essential input components, indirectly supporting reasoning.
+
+### Future Implications
+Grokking in transformers hints at future AI advancements where models can reason across diverse domains with minimal labeled data, potentially leading to more general-purpose, data-efficient AI systems.
