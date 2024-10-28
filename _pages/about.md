@@ -20,12 +20,13 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
+**August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume
 
-**June 2024**: _Presented_ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OTDI.
+**July 2024**: _Presented_ - AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system
+
+**June 2024**: _Presented_ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU
 
 **May 2024**: _Presented_ Voicequity: identify and mitigate biases in ASRs, enhancing fairness and inclusivity
-
-**May 2024**: _Presented_ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system
 
 **November 2023**: _Presented_ Long-answer question generation model for contextually accurate questions from academic text - [report](_portfolio/5525.pdf)
 
