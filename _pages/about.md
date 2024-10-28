@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! 
+Hello!
+I am a second-year MS student at Ohio State University. I am advised by Prof. Rajiv Ramnath and Prof. Sachin Kumar, and have been previously advised by Dr. DK Panda.
+
+These days, I have been working on solving reasoning in Large Language Models. In particular, I am working on reasoning through parametric memory and generalization. I am working on the architectural side of language models and working towards better reasoning through parametric memory, and the phenomenon of grokking. I am going to defend my master's thesis in december 2024 on this analysis over a wide range of designs.
+
+Previously, I worked as a NLP researcher with the department of emergency medicine (sharkey toppen), and columbus fire and delaware where I  researched medical reasoning and developed an AI assistant for 911 call-takers and responders. I have also applied my distributed deep learning from my GRA experience that I have done at NOWLAB with Dr. Panda to improve throughput and availability. 
+
+I have had the good fortune to complete my bachelor's in Computer Science and work my research project with Amazon Research with their customer review data. I've also had the opportunity to research and engineer on multi-modal machine learning solutions for cricket.com and ninjacart.in for 3 years.
+
+For more information, you can checkout my CV here or reach out to me on my email.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
