@@ -8,19 +8,23 @@ redirect_from:
 ---
 
 Hello!
-I am a second-year M.S. student at Ohio State University, advised by [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Prof. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
+I am a second-year M.S. student at Ohio State University, advised by [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
 
 Currently, I am focused on enhancing reasoning capabilities in Large Language Models (LLMs). My research specifically explores reasoning through parametric memory, with an emphasis on the architectural aspects of language models. I aim to improve reasoning through generalization and analyze the phenomenon of grokking. I am set to defend my master’s thesis in December 2024, presenting an extensive analysis across a variety of model designs.
 
-Previously, I worked as an NLP researcher with the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care) and collaborated with Columbus Fire and [DCEMS](https://ems.co.delaware.oh.us/), where I researched medical reasoning and developed an AI assistant to support 911 call-takers and responders. I also leveraged my experience in distributed deep learning, gained as a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/) under Dr. DK Panda, to enhance system throughput and availability.
+I have a diverse background in NLP research, including my role as an NLP researcher at the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care), where I collaborated with Ohio’s State EMS under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6)’s mentorship to explore medical reasoning and develop an AI assistant for 911 call-takers and responders. Under [Dr. Brew](https://sites.google.com/site/chrisbrew475/home?authuser=0), I led a project that utilized LongFormer’s attention mechanism to create a pipeline for processing lengthy texts, generating semantically coherent, multi-sentence responses from academic texts. As a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/) with [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2), I optimized NVIDIA’s [Rapids](https://nvidia.github.io/spark-rapids/), [GDS](https://docs.nvidia.com/gpudirect-storage/overview-guide/index.html), and [DALI](https://developer.nvidia.com/dali) distributed GPU-acceleration [solutions](https://nowlab.cse.ohio-state.edu/projects/33/) using MVAPICH. 
 
 I have had the good fortune to complete my bachelor's in Computer Science and had the opportunity to work on an NLP project with Amazon Research. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
 
 For more information, you can checkout my [CV](https://npkanaka.github.io//files/cv.pdf) here or reach out to me on my [email](mailto:nikhilpavan.kanaka@gmail.com).
 
-Updates
+News
 ------
 
+
+September 2020: Graduated with Bachelor's in CS
+August 2020: 
+December 2019: Joined cricket.com as a research intern
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
