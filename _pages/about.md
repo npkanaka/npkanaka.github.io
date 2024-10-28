@@ -20,21 +20,21 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
-**August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume
+**August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume (_Unpublished_)
 
-**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system
+**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system (_Unpublished_)
 
-**June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU
+**June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU (_Unpublished_)
 
-**May 2024**: _Presented_ ~ Voicequity, identify and mitigate biases in ASRs, enhancing fairness and inclusivity
+**May 2024**: _Presented_ ~ Voicequity, identify and mitigate biases in ASRs, enhancing fairness and inclusivity - [report](_portfolio/5249.pdf)
 
 **November 2023**: _Presented_ ~ Long-answer question generation model for contextually accurate questions from academic text - [report](_portfolio/5525.pdf)
 
-**October 2023**: _Presented_ ~ Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models.
+**October 2023**: _Presented_ ~ Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models (_Unpublished_)
 
 **June 2023**: ⭐ GRA at [NOWLAB](https://nowlab.cse.ohio-state.edu/)
 
-**May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center
+**May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center (_Unpublished_)
 
 **May 2023**: _Presented_ ~ Investigating GPU Offloading in NVIDIA Rapids - [report](_portfolio/6422.pdf) 
 
@@ -44,7 +44,7 @@ News
 
 **June 2022**: Thesis program in Computer Science at IIITH
 
-**October 2020**: Joined [hdworks](https://hdworks.in/)([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
+**October 2020**: Joined [hdworks](https://hdworks.in/) ([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
 
 **September 2020**: 🎓 Graduated with Bachelor's in Computer Science
 
