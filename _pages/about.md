@@ -12,7 +12,7 @@ I am a second-year M.S. student at Ohio State University, advised by [Dr. Rajiv 
 
 Currently, I am focused on enhancing reasoning capabilities in Large Language Models (LLMs). My research specifically explores reasoning through parametric memory, with an emphasis on the architectural aspects of language models. I aim to improve reasoning through generalization and analyze the phenomenon of grokking. I am set to defend my master’s thesis in December 2024, presenting an extensive analysis across a variety of model designs.
 
-I have a diverse background in NLP research, including my role as an NLP researcher at the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care), where I collaborated with Ohio’s State EMS under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6)’s mentorship to explore medical reasoning and develop an AI assistant for 911 call-takers and responders. Under [Dr. Brew](https://sites.google.com/site/chrisbrew475/home?authuser=0), I led a project that utilized LongFormer’s attention mechanism to create a pipeline for processing lengthy texts, generating semantically coherent, multi-sentence responses from academic texts. As a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/) with [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2), I optimized NVIDIA’s [Rapids](https://nvidia.github.io/spark-rapids/), [GDS](https://docs.nvidia.com/gpudirect-storage/overview-guide/index.html), and [DALI](https://developer.nvidia.com/dali) distributed GPU-acceleration [solutions](https://nowlab.cse.ohio-state.edu/projects/33/) using MVAPICH. 
+I have a diverse background in research, including my role as an NLP researcher at the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care), where I collaborated with Ohio’s State EMS under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6)’s mentorship to explore medical reasoning and develop an AI assistant for 911 call-takers and responders. Under [Dr. Brew](https://sites.google.com/site/chrisbrew475/home?authuser=0), I led a project that utilized LongFormer’s attention mechanism to create a pipeline for processing lengthy texts, generating semantically coherent, multi-sentence responses from academic texts. As a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/projects/33/) with [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2), I optimized NVIDIA’s [Rapids](https://nvidia.github.io/spark-rapids/), [GDS](https://docs.nvidia.com/gpudirect-storage/overview-guide/index.html), and [DALI](https://developer.nvidia.com/dali) (https://nowlab.cse.ohio-state.edu/projects/33/). 
 
 I have had the good fortune to complete my bachelor's in Computer Science and had the opportunity to work on an NLP project with Amazon Research. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
 
@@ -22,9 +22,25 @@ News
 ------
 
 
-September 2020: Graduated with Bachelor's in CS
-August 2020: 
-December 2019: Joined cricket.com as a research intern
+**May 2023**: Started Research Internship with the Analytics Center of Excellence at Wexner Medical Center.
+
+**May 2023**: Investigating GPU Offloading in NVIDIA Rapids | [report](_portfolio/6422.pdf) 
+
+**April 2023**: Performance Benchmarking of File Systems for handling massive data workloads | [report](_portfolio/6431.pdf)
+
+**January 2023**: Started my MS by thesis at Ohio State Univeristy
+
+**June 2022**: Thesis program in Computer Science at IIITH
+
+**October 2020**: Joined [hdworks](https://hdworks.in/)([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
+
+**September 2020**: 🎓 Graduated with Bachelor's in Computer Science
+
+**September 2020**: Completed my bachelor's thesis with Amazon Research on an NLP project focused on customer feedback
+
+**August 2020**: 🎤 Talk on _"Quantum Computing and the Future of NLP"_
+
+**January 2017**: Fouding member of [Advanced Academic Center](https://www.aacgriet.com/)
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
