@@ -21,7 +21,7 @@ repository               : "npkanaka/npkanaka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg" #"headshot.jpg"
+  avatar           : "file.jpg" #"headshot.jpg"
   name             : "Nikhil Pavan Kanaka"
   pronouns         : # example: "she/her"  
   bio              : "Pre-doctoral Research in NLP"
