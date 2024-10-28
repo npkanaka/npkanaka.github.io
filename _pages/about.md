@@ -8,17 +8,21 @@ redirect_from:
 ---
 
 Hello!
-I am a second-year MS student at Ohio State University. I am advised by [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and Prof. Sachin Kumar, and have been previously advised by Dr. DK Panda.
+I am a second-year M.S. student at Ohio State University, advised by [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Prof. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
 
-These days, I have been working on solving reasoning in Large Language Models. In particular, I am working on reasoning through parametric memory and generalization. I am working on the architectural side of language models and working towards better reasoning through parametric memory, and the phenomenon of grokking. I am going to defend my master's thesis in december 2024 on this analysis over a wide range of designs.
+Currently, I am focused on enhancing reasoning capabilities in Large Language Models (LLMs). My research specifically explores reasoning through parametric memory, with an emphasis on the architectural aspects of language models. I aim to improve reasoning through generalization and analyze the phenomenon of grokking. I am set to defend my master’s thesis in December 2024, presenting an extensive analysis across a variety of model designs.
 
-Previously, I worked as a NLP researcher with the department of emergency medicine (sharkey toppen), and columbus fire and delaware where I  researched medical reasoning and developed an AI assistant for 911 call-takers and responders. I have also applied my distributed deep learning from my GRA experience that I have done at NOWLAB with Dr. Panda to improve throughput and availability. 
+Previously, I worked as an NLP researcher with the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care) and collaborated with Columbus Fire and [DCEMS](https://ems.co.delaware.oh.us/), where I researched medical reasoning and developed an AI assistant to support 911 call-takers and responders. I also leveraged my experience in distributed deep learning, gained as a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/) under Dr. DK Panda, to enhance system throughput and availability.
 
-I have had the good fortune to complete my bachelor's in Computer Science and work my research project with Amazon Research with their customer review data. I've also had the opportunity to research and engineer on multi-modal machine learning solutions for cricket.com and ninjacart.in for 3 years.
+I have had the good fortune to complete my bachelor's in Computer Science and had the opportunity to work on an NLP project with Amazon Research. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
 
-For more information, you can checkout my CV here or reach out to me on my email.
+For more information, you can checkout my [CV](https://npkanaka.github.io//files/cv.pdf) here or reach out to me on my [email](mailto:nikhilpavan.kanaka@gmail.com).
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Updates
+------
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -57,4 +61,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
