@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello!
-I am a second-year MS student at Ohio State University. I am advised by Prof. Rajiv Ramnath and Prof. Sachin Kumar, and have been previously advised by Dr. DK Panda.
+I am a second-year MS student at Ohio State University. I am advised by [Prof. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and Prof. Sachin Kumar, and have been previously advised by Dr. DK Panda.
 
 These days, I have been working on solving reasoning in Large Language Models. In particular, I am working on reasoning through parametric memory and generalization. I am working on the architectural side of language models and working towards better reasoning through parametric memory, and the phenomenon of grokking. I am going to defend my master's thesis in december 2024 on this analysis over a wide range of designs.
 
