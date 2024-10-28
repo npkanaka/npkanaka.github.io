@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nikhil's Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Nikhil Pavan Kanaka"
 description              : &description "NLP Researcher"
@@ -21,7 +21,7 @@ repository               : "npkanaka/npkanaka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "headshot.jpg"
   name             : "Nikhil Pavan Kanaka"
   pronouns         : # example: "she/her"  
   bio              : "Pre-doctoral NLP Researcher"
