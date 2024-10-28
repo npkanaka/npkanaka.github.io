@@ -26,9 +26,9 @@ News
 
 **June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU (_Unpublished_)
 
-**May 2024**: _Presented_ ~ Voicequity, identify and mitigate biases in ASRs, enhancing fairness and inclusivity - [report](_portfolio/5249.pdf)
+**May 2024**: _Presented_ ~ Voicequity, identify and mitigate biases in ASRs, enhancing fairness and inclusivity - [report](files/5249.pdf)
 
-**November 2023**: _Presented_ ~ Long-answer question generation model for contextually accurate questions from academic text - [report](_portfolio/5525.pdf)
+**November 2023**: _Presented_ ~ Long-answer question generation model for contextually accurate questions from academic text - [report](files/5525.pdf)
 
 **October 2023**: _Presented_ ~ Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models (_Unpublished_)
 
@@ -36,9 +36,9 @@ News
 
 **May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center (_Unpublished_)
 
-**May 2023**: _Presented_ ~ Investigating GPU Offloading in NVIDIA Rapids - [report](_portfolio/6422.pdf) 
+**May 2023**: _Presented_ ~ Investigating GPU Offloading in NVIDIA Rapids - [report](files/6422.pdf) 
 
-**April 2023**: _Presented_ ~ Performance Benchmarking of File Systems for handling massive data workloads - [report](_portfolio/6431.pdf)
+**April 2023**: _Presented_ ~ Performance Benchmarking of File Systems for handling massive data workloads - [report](files/6431.pdf)
 
 **January 2023**: Started my MS by thesis at Ohio State Univeristy
 
