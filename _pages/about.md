@@ -14,35 +14,33 @@ Currently, I am focused on enhancing reasoning capabilities in Large Language Mo
 
 I have a diverse background in research, including my role as an NLP researcher at the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care), where I collaborated with Ohio’s State EMS under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6)’s mentorship to explore medical reasoning and develop an AI assistant for 911 call-takers and responders. Under [Dr. Brew](https://sites.google.com/site/chrisbrew475/home?authuser=0), I led a project that utilized LongFormer’s attention mechanism to generate semantically coherent, multi-sentence responses from academic texts. As a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/projects/33/) with [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2), I optimized NVIDIA’s [Rapids](https://nvidia.github.io/spark-rapids/), [GDS](https://docs.nvidia.com/gpudirect-storage/overview-guide/index.html), and [DALI](https://developer.nvidia.com/dali). 
 
-I have completed my Bachelor's in Computer Science '20 and had the opportunity to work on an NLP project with Amazon Research. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
+I have completed my Bachelor's in Computer Science and had the opportunity to work on an NLP project with Amazon Research, categorizing product reviews, and proposed a novel graph-based summarization. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
 
 For more information, you can checkout my [CV](https://npkanaka.github.io//files/cv.pdf) here or reach out to me on my [email](mailto:nikhilpavan.kanaka@gmail.com).
 
 News
 ------
-**August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume (_Unpublished_)
+**August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume .
 
-**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system (_Unpublished_)
+**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system .
 
-**June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU (_Unpublished_)
+**June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU .
 
 **May 2024**: _Presented_ ~ Voicequity, identify and mitigate biases in ASRs, enhancing fairness and inclusivity - [report](files/5249.pdf)
 
 **November 2023**: _Presented_ ~ Long-answer question generation model for contextually accurate questions from academic text - [report](files/5525.pdf)
 
-**October 2023**: _Presented_ ~ Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models (_Unpublished_)
+**October 2023**: _Presented_ ~ Performance evaluation of distributed training frameworks, comparing PyTorch Distributed and Horovod for ResNet-34 and Pythia models .
 
 **June 2023**: ⭐ GRA at [NOWLAB](https://nowlab.cse.ohio-state.edu/)
 
-**May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center (_Unpublished_)
+**May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center .
 
 **May 2023**: _Presented_ ~ Investigating GPU Offloading in NVIDIA Rapids - [report](files/6422.pdf) 
 
 **April 2023**: _Presented_ ~ Performance Benchmarking of File Systems for handling massive data workloads - [report](files/6431.pdf)
 
 **January 2023**: Started my MS by thesis at Ohio State Univeristy
-
-**June 2022**: Thesis program in Computer Science at IIITH
 
 **October 2020**: Joined [hdworks](https://hdworks.in/) ([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
 
