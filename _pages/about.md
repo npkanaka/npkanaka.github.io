@@ -34,7 +34,7 @@ News
 
 **June 2023**: ⭐ GRA at [NOWLAB](https://nowlab.cse.ohio-state.edu/)
 
-**May 2023**: _Talk_ ~ on domain-specific fine-tuning, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center .
+**May 2023**: 🎤 _Talk_ ~ On Domain-Specific Fine-Tuning: Advancing Analytics in Medical Research at Wexner Medical Center, concluding summer research internship with the Analytics Center of Excellence at Wexner Medical Center.
 
 **May 2023**: _Presented_ ~ Investigating GPU Offloading in NVIDIA Rapids - [report](files/6422.pdf) 
 
@@ -42,13 +42,19 @@ News
 
 **January 2023**: Started my MS by thesis at Ohio State Univeristy
 
+**September 2022**: 🎤 _Talk_ ~ On Unlocking Meaning: NLP’s Role in Shaping the Future of Intelligent Systems
+
 **October 2020**: Joined [hdworks](https://hdworks.in/) ([cricket.com](https://www.cricket.com/)) as a full-time research engineer 
 
 **September 2020**: 🎓 Graduated with Bachelor's in Computer Science
 
 **September 2020**: Completed my bachelor's thesis with Amazon Research on an NLP project focused on customer feedback
 
-**August 2020**: 🎤 Talk on _"Quantum Computing and the Future of NLP"_ at GRIET
+**September 2020**: 🎤 _Talk_ ~ On Bridging Minds and Machines: Psychological Impact of AI Evolution
+
+**September 2020**: 🎤 _Talk_ ~ On Quantum Perspectives on Intelligence: How quantum reshapes our understanding of intelligence, new possibilities for AI
+
+<!-- **August 2020**: 🎤 Talk on _"Quantum Computing and the Future of NLP"_ at GRIET -->
 
 **January 2017**: Fouding member of [Advanced Academic Center](https://www.aacgriet.com/)
 
