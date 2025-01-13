@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 Hello!
-I am a second-year M.S. student at Ohio State University, advised by [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
+I recently graduated with an M.S. degree from Ohio State University, where I was advised by [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
 
-Currently, I am focused on enhancing reasoning capabilities in Large Language Models (LLMs). My research specifically explores reasoning through parametric memory, with an emphasis on the architectural aspects of language models. I aim to improve reasoning through generalization and analyze the phenomenon of grokking. I am set to defend my master’s thesis in December 2024, presenting an extensive analysis across a variety of model designs.
+My current research focuses on understanding and enhancing reasoning capabilities in Large Language Models (LLMs), which have revolutionized natural language understanding and generation but still face critical challenges in logical deduction, systematic reasoning, and generalization. My work delves into reasoning through parametric memory, with a particular emphasis on how dataset design and model architecture influence reasoning performance. By exploring phenomena like grokking—where models unexpectedly generalize after extensive training beyond overfitting—I aim to uncover the dynamics of reasoning and generalization. I defended my thesis on this research in December 2024, presenting a comparative investigation of grokking in transformers and beyond.
+
+<!-- Currently, I am focused on understanding and enhancing reasoning capabilities in Large Language Models (LLMs). My research specifically explores reasoning through parametric memory, with an emphasis on the architectural aspects of language models. I aim to improve reasoning through generalization and analyze the phenomenon of grokking. I am set to defend my master’s thesis in December 2024, presenting an extensive analysis across a variety of model designs. -->
 
 I have a diverse background in research, including my role as an NLP researcher at the [Wexner Medical Center](https://erik.osu.edu/story/mar22-pre-acceleratorgrants#:~:text=Leveraging%20Artificial%20Intelligence%20to%20Accelerate%20Life%2DSaving%20911%20Care), where I collaborated with Ohio’s State EMS under [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6)’s mentorship to explore medical reasoning and develop an AI assistant for 911 call-takers and responders. Under [Dr. Brew](https://sites.google.com/site/chrisbrew475/home?authuser=0), I led a project that utilized LongFormer’s attention mechanism to generate semantically coherent, multi-sentence responses from academic texts. As a Graduate Research Assistant at [NOWLAB](https://nowlab.cse.ohio-state.edu/projects/33/) with [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2), I optimized NVIDIA’s [Rapids](https://nvidia.github.io/spark-rapids/), [GDS](https://docs.nvidia.com/gpudirect-storage/overview-guide/index.html), and [DALI](https://developer.nvidia.com/dali). 
 
@@ -20,9 +22,11 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
+**December 2024**: ⭐ Defended ~ Master's thesis titled "Comparative Investigation of Grokking in Transformers and Beyond: A Study on Reasoning", exploring how dataset design and model architecture influence reasoning and generalization in Large Language Models - [info](/files/llms-reasoning.md) _(under review)_
+
 **August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume .
 
-**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system .
+**July 2024**: _Presented_ ~ AI assistant for 911 operators, enhancing decision accuracy with a hybrid reasoning system.
 
 **June 2024**: _Presented_ ~ Enhanced ConnectorX, reducing data migration times and optimizing large-scale AI workloads as a Research Engineer at OSU .
 
