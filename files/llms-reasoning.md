@@ -1,5 +1,8 @@
 
-**Exploring Grokking in Neural Networks: Experimental Analysis of Inductive Biases and Generalization Patterns in Diverse Architectures**
+**Title: Comparative Investigation of Grokking in Transformers and Beyond: A Study on Reasoning**
+
+**Abstract:**
+Large Language Models (LLMs) have transformed natural language understanding and generation but still face significant challenges in logical deduction, systematic reasoning, and generalization. These reasoning tasks often reveal weaknesses in current models, resulting in hallucinations and inconsistent outputs despite fluent language. Existing approaches mainly address reasoning capabilities through high-level interventions, overlooking core model limitations. Grokking—where models unexpectedly generalize after prolonged training beyond overfitting—offers a promising avenue for studying reasoning dynamics. This research systematically explores how dataset design and model architectures influence grokking’s emergence and efficiency. The study finds that GPT and LLaMA architectures exhibited grokking on the comparison task, though LLaMA did so more slowly than GPT. In contrast, RWKV and Mamba failed to grok under identical conditions. The research also examines dataset characteristics affecting grokking performance, observing that a minimum threshold of distinct entities is essential for effective grokking, while lower attribute value ranges accelerate generalization. These findings deepen understanding of reasoning tasks’ interaction with training dynamics and provide practical guidance for enhancing generalization in language models.
 
 ---
 
@@ -29,7 +32,7 @@ This project aims to deepen our understanding of the phenomenon of *grokking* in
 
 ### Methodology
 
-#### ⏳ In progress
+#### ⏳ (Under review)
 
 ### Expected Outcomes
 
