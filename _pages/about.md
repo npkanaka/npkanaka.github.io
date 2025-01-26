@@ -22,7 +22,7 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
-**January 2025**: 🎓 Graduated with Master's in Computer Science, with a thesis in NLP.
+**January 2025**: 🎓 Graduated with Master's in Computer Science from Ohio State University, with a thesis in NLP.
 
 **December 2024**: ⭐ Defended ~ Master's thesis titled "Comparative Investigation of Grokking in Transformers and Beyond: A Study on Reasoning", exploring how dataset design and model architecture influence reasoning and generalization in Large Language Models - [info](https://github.com/npkanaka/npkanaka.github.io/blob/master/files/llms-reasoning.md), [slides](https://npkanaka.github.io/files/thesis.pdf) _(under review)_
 
