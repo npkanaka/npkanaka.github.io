@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hello!
-I recently graduated with an M.S. degree from Ohio State University, where I was advised by [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior advisement from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
+
+I recently earned an M.S. degree from Ohio State University, where I was advised by Dr. [Dr. Rajiv Ramnath](https://cse.osu.edu/people/ramnath.6) and [Dr. Sachin Kumar](https://sites.google.com/view/sachinkumar), with prior guidance from [Dr. D.K. Panda](https://cse.osu.edu/people/panda.2).
 
 My current research focuses on understanding and enhancing reasoning capabilities in Large Language Models (LLMs), which have revolutionized natural language understanding and generation but still face critical challenges in logical deduction, systematic reasoning, and generalization. My work delves into reasoning through parametric memory, with a particular emphasis on how dataset design and model architecture influence reasoning performance. By exploring phenomena like grokking—where models unexpectedly generalize after extensive training beyond overfitting—I aim to uncover the dynamics of reasoning and generalization. I defended my thesis on this research in December 2024, presenting a comparative investigation of grokking in transformers and beyond.
 
@@ -22,7 +22,9 @@ For more information, you can checkout my [CV](https://npkanaka.github.io//files
 
 News
 ------
-**December 2024**: ⭐ Defended ~ Master's thesis titled "Comparative Investigation of Grokking in Transformers and Beyond: A Study on Reasoning", exploring how dataset design and model architecture influence reasoning and generalization in Large Language Models - [info](/files/llms-reasoning.md) _(under review)_
+**January 2025**: 🎓 Graduated with Master's in Computer Science, with a thesis in NLP.
+
+**December 2024**: ⭐ Defended ~ Master's thesis titled "Comparative Investigation of Grokking in Transformers and Beyond: A Study on Reasoning", exploring how dataset design and model architecture influence reasoning and generalization in Large Language Models - [info](https://github.com/npkanaka/npkanaka.github.io/blob/master/files/llms-reasoning.md), [slides](https://npkanaka.github.io/files/thesis.pdf) _(under review)_
 
 **August 2024**: _Presented_ ~ Implicit reasoning in transformers depends on data distribution and training structure, not model size or data volume .
 
