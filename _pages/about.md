@@ -18,7 +18,7 @@ I have a diverse background in research, including my role as an NLP researcher 
 
 I have completed my Bachelor's in Computer Science and had the opportunity to work on an NLP project with Amazon Research, categorizing product reviews, and proposed a novel graph-based summarization. Additionally, I have three years of experience developing and engineering multi-modal machine learning solutions for [Cricket.com](https://www.cricket.com/) and [Ninjacart.com](https://www.ninjacart.com/).
 
-For more information, you can checkout my [CV](https://npkanaka.github.io//files/cv.pdf) here or reach out to me on my [email](mailto:nikhilpavan.kanaka@gmail.com).
+For more information, feel free to reach out to me on my [email](mailto:nikhilpavan.kanaka@gmail.com).
 
 News
 ------

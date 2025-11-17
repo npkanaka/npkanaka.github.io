@@ -24,9 +24,9 @@ author:
   avatar           : "file.jpg" #"headshot.jpg"
   name             : "Nikhil Pavan Kanaka"
   pronouns         : # example: "she/her"  
-  bio              : "Pre-doctoral Research in NLP"
-  location         : "Columbus, Ohio"
-  employer         : "MS at Ohio State University"
+  bio              : "AI Research Engineer"
+  location         : "San Francisco, CA"
+  employer         : "AI Engineer at StackGen"
   uri              : # URL
   email            : "nikhilpavan.kanaka@gmail.com" 
 
